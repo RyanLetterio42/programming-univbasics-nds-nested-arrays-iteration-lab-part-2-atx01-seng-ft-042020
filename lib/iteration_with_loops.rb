@@ -8,5 +8,5 @@ def find_min_in_nested_arrays(src)
     result_array.push(min_array[0])
     counter += 1
   end
-   puts result_array
+   p result_array
 end
